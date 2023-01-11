@@ -1,3 +1,4 @@
-#so this is a python file? Let us print something to test
-
-print("I am a python file")
+#The __init__.py file tells Python this directory is a package.
+#This file can be empty.
+#It can also have code that is to run on package initialization.
+#Hence, the name '__init__'
