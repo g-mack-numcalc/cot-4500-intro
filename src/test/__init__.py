@@ -1,3 +1,1 @@
-#This is version 2 of __init__.py
-
-print("I am the same. But different directory")
+#The __init__.py file tells Python this directory is a package.
