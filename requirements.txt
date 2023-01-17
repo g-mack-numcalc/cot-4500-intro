@@ -1,1 +1,1 @@
-So this should be a normal text file.
+numpy = 1.24.1
